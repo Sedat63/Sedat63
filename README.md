@@ -3,7 +3,7 @@
 <h1 align="center">Merhaba 👋, Ben SEDAT ÖZTÜRK</h1>
 <h3 align="center">Don't Repeat Yourself</h3>
 
-- 🔭 I’m currently working on **.Net, .Net Core, Java, Js, Css, React MSSQL, **
+- 🔭 I’m currently working on **.Net, .Net Core, Java, Js, Css, React MSSQL **
 
 - 🌱 I’m currently learning **Angular**
 
